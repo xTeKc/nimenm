@@ -2,11 +2,11 @@
 
 version       = "0.1.0"
 author        = "xTeKc"
-description   = "Say Nim"
+description   = "Nim project reference"
 license       = "MPL-2.0"
 srcDir        = "src"
 installExt    = @["nim"]
-bin           = @["say"]
+bin           = @["nimenm"]
 
 
 # Dependencies

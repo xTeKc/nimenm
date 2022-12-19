@@ -5,4 +5,4 @@ t:
 	clear && nimble test
 
 d: 
-	rm say && clear
+	rm nimenm && clear

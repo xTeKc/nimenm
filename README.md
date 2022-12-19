@@ -1,4 +1,4 @@
-# saynim
+# nimenm
 Nim project reference
 
 ## Run
