@@ -2,10 +2,10 @@
 
 import unittest
 
-import nimenmpkg/greeting
-test "correct greeting":
+import nimenmpkg/hello
+test "correct hello":
   check getHelloMessage() == "Hello Nim!"
 
-import nimenmpkg/farewell
-test "correct farewell":
+import nimenmpkg/goodbye
+test "correct goodbye":
   check getGoodbyeMessage() == "Goodbye Nim!"

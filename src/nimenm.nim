@@ -1,5 +1,5 @@
-import nimenmpkg/greeting
-import nimenmpkg/farewell
+import nimenmpkg/hello
+import nimenmpkg/goodbye
 
 when isMainModule:
   echo(getHelloMessage())
